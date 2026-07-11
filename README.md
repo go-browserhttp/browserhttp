@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-browserhttp/brand/main/social/go-browserhttp.png" alt="go-browserhttp/browserhttp" width="720"></p>
+
 # go-browserhttp / browserhttp
 
 [![CI](https://github.com/go-browserhttp/browserhttp/actions/workflows/ci.yml/badge.svg)](https://github.com/go-browserhttp/browserhttp/actions/workflows/ci.yml)
