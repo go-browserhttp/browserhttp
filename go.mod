@@ -2,7 +2,10 @@ module github.com/go-browserhttp/browserhttp
 
 go 1.26.4
 
-require github.com/refraction-networking/utls v1.8.2
+require (
+	github.com/breml/rootcerts v0.3.7
+	github.com/refraction-networking/utls v1.8.2
+)
 
 require (
 	github.com/andybalholm/brotli v1.0.6 // indirect
