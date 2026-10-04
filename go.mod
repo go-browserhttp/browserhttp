@@ -1,6 +1,6 @@
 module github.com/go-browserhttp/browserhttp
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/breml/rootcerts v0.3.7
