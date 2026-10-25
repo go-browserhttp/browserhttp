@@ -3,7 +3,7 @@ module github.com/go-browserhttp/browserhttp
 go 1.27.1
 
 require (
-	github.com/breml/rootcerts v0.3.7
+	github.com/breml/rootcerts v0.3.8
 	github.com/refraction-networking/utls v1.8.2
 )
 
